@@ -7,18 +7,20 @@ on the JVM creatd by
 
 [ClojureScript](https://github.com/clojure/clojurescript) is an implementation
 of Clojure which compiles to javascript via the
-[Google Closure Compiler](https://developers.google.com/closure/compiler/). [There are some differences](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure).
+[Google Closure Compiler](https://developers.google.com/closure/compiler/). There are [some differences](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure).
 
-[Leiningen](http://leiningen.org/) Clojure's most popular and battle tested
-build tool,
-[Boot](http://boot-clj.com/)/[Boot](https://github.com/boot-clj/boot) is the
-primary contender, new to the scene and on the rise.
+[Leiningen](http://leiningen.org/) is Clojure's most popular and battle tested
+build tool, [Boot](http://boot-clj.com/)
+([on github](https://github.com/boot-clj/boot)) is the primary contender, new
+to the scene and on the rise.
 
 There are plugins for leiningen for:
 - Writing Chrome Extensions
   * [lein-chrome-extension](https://github.com/clumsyjedi/lein-chrome-extension)
   * [lein-chromebuild](https://github.com/clumsyjedi/lein-chromebuild).
-- NodeJS
+- NodeJS (perhaps particularly attractive as an alternative to JVM-based
+  Clojure's slow startup time (this is Clojure's problem, not the JVM
+  b-t-dubs).
   * https://github.com/RyanMcG/lein-npm
   * https://github.com/bodil/cljs-noderepl
 
@@ -29,8 +31,8 @@ creates a project which already has
 [om](https://github.com/omcljs/om),
 [om-tools](https://github.com/Prismatic/om-tools),
 [ring](https://github.com/ring-clojure/ring),
-[http-kit](http://www.http-kit.org/) and others to provide a full-stack
-environment for building single page web apps using
+[http-kit](http://www.http-kit.org/) and others configured to work together to
+provide a full-stack environment for building single page web apps using
 [Facebook's React](http://facebook.github.io/react/) with
 [full support for WebSockets](http://www.http-kit.org/server.html).
 
@@ -55,7 +57,7 @@ To be elaborated on:
 * SQL/Databases
   - https://github.com/krisajenkins/yesql
   - https://github.com/korma/Korma
-  -
+  - https://github.com/jkk/honeysql
 * [Cljx](https://github.com/lynaghk/cljx)
 * [core.async](https://github.com/clojure/core.async).
 * [ClojureScript REPL for Chrome](https://chrome.google.com/webstore/detail/clojurescript-repl/lmjjlapjpjeodaadkljnmdfbjpfddchm?hl=en).
@@ -69,7 +71,7 @@ To be elaborated on:
 * https://github.com/teropa/hiccups (edn->html :cljs)
 * https://github.com/r0man/sablono (edn->html :cljs :om)
 
-* Other React alternatives like[Reagent](http://holmsand.github.io/reagent/).
+* Other React alternatives like [Reagent](http://holmsand.github.io/reagent/).
 
 ## Resources
 
