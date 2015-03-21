@@ -59,9 +59,9 @@ To be elaborated on:
   - https://github.com/korma/Korma
   - https://github.com/jkk/honeysql
 * [Cljx](https://github.com/lynaghk/cljx)
-* [core.async](https://github.com/clojure/core.async).
-* [ClojureScript REPL for Chrome](https://chrome.google.com/webstore/detail/clojurescript-repl/lmjjlapjpjeodaadkljnmdfbjpfddchm?hl=en).
-* [transducers](http://clojure.org/transducers).
+* [core.async](https://github.com/clojure/core.async)
+* [ClojureScript REPL for Chrome](https://chrome.google.com/webstore/detail/clojurescript-repl/lmjjlapjpjeodaadkljnmdfbjpfddchm?hl=en)
+* [transducers](http://clojure.org/transducers)
 * http://www.datomic.com/
 * https://github.com/ibdknox/jayq (jquery)
 * https://github.com/lynaghk/c2 (d3)
