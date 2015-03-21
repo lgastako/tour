@@ -34,7 +34,8 @@ creates a project which already has
 [http-kit](http://www.http-kit.org/) and others configured to work together to
 provide a full-stack environment for building single page web apps using
 [Facebook's React](http://facebook.github.io/react/) with
-[full support for WebSockets](http://www.http-kit.org/server.html).
+[full support for WebSockets](http://www.http-kit.org/server.html), a browser
+REPL with fast automatic code/CSS reloading, etc.
 
 [om](https://github.com/omcljs/om) is the work of
 [David Nolen](http://swannodette.github.io/) who also does a ton of great work
