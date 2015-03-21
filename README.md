@@ -1,4 +1,4 @@
-# A (Quick) Tour of Clojure (and ClojureScript).
+# A Brief Tour of the Clojure/ClojureScript Landscape
 
 [Clojure](http://clojure.org/) is a modern
 [Lisp implementation](http://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
