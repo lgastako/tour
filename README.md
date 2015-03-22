@@ -71,6 +71,7 @@ To be elaborated on:
 * https://github.com/davidsantiago/hickory (html->edn)
 * https://github.com/teropa/hiccups (edn->html :cljs)
 * https://github.com/r0man/sablono (edn->html :cljs :om)
+* https://github.com/edn-format/edn EDN is Clojure's take on JSON and is a common interchange format within and across Clojure and ClojureScript programs.  EDN is a subset of the Clojure language the way JSON is a subset of javascript.  Also, something, something homoiconicity.
 
 * Other React alternatives like [Reagent](http://holmsand.github.io/reagent/).
 
